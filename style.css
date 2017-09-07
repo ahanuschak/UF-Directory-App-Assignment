@@ -6,3 +6,18 @@
   max-height: 400px;
   overflow: auto;
 }
+
+.table {
+  background-color: orange;
+}
+
+.table-hover thead tr:hover th, .table-hover tbody tr:hover td {
+    background-color: blue;
+    color: white;
+}
+
+.btn {
+  background-color: orange;
+  color: black;
+  border-color: blue;
+}
